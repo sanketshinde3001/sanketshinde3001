@@ -13,3 +13,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketshinde3001&show_icons=true&locale=en" alt="sanketshinde3001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketshinde3001&" alt="sanketshinde3001" /></p>
+
+[![An image of @sanketshinde3001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanketshinde3001)](https://holopin.io/@sanketshinde3001)
