@@ -18,9 +18,9 @@
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=sanketshinde3001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
       </td>
-      <td width="50%" align="center">
+<!--       <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketshinde3001&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
-      </td>
+      </td> -->
     </tr>
     <tr>
       <td width="50%" align="center">
