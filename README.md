@@ -1,41 +1,112 @@
-<h1 align="center">Hi there! I'm Sanket Rajendra Shinde 👋</h1>
-<h3 align="center">Frontend Developer & AI Enthusiast from India 🚀</h3>
+<!-- HEADER SECTION -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9596&random=false&width=435&lines=Frontend+Development;Generative+AI;Backend+Development;UI%2FUX+Design;Creative+Solutions" alt="Typing SVG"/>
-</p>
+░██████╗░█████╗░███╗░░██╗██╗░░██╗███████╗████████╗
+██╔════╝██╔══██╗████╗░██║██║░██╔╝██╔════╝╚══██╔══╝
+╚█████╗░███████║██╔██╗██║█████═╝░█████╗░░░░░██║░░░
+░╚═══██╗██╔══██║██║╚████║██╔═██╗░██╔══╝░░░░░██║░░░
+██████╔╝██║░░██║██║░╚███║██║░╚██╗███████╗░░░██║░░░
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚══════╝░░░╚═╝░░░
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanketshinde3001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+<br/>
 
-### 📊 GitHub Stats
+[![Portfolio](https://img.shields.io/badge/🌐_sanketshinde.works-000000?style=for-the-badge&logoColor=white)](https://sanketshinde.works/)
+[![Profile Views](https://komarev.com/ghpvc/?username=sanketshinde3001&label=Views&color=00d4ff&style=for-the-badge)](https://github.com/sanketshinde3001)
 
-<div align="center" style="background-color: #1a1b27; padding: 20px; border-radius: 10px;">
-  <table style="background-color: #1a1b27;">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sanketshinde3001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
-      </td>
-<!--       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketshinde3001&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
-      </td> -->
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketshinde3001&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&card_width=400" alt="Top Languages"/>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=sanketshinde3001&rank=-C,-?&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
+---
+
+<!-- ABOUT -->
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+### `> whoami`
+
+```yaml
+name: Sanket Rajendra Shinde
+location: India 🇮🇳
+role: Founding Engineer at Neurolaw AI
+currently_building:
+  - "Dm2cart"
+  - "Widgets Extention"
+  - "More coming soon..."
+vibe: "Ship it, then make it better."
+```
+
+<br clear="right"/>
+
+---
+
+<!-- PROJECTS -->
+### `> ls ./projects`
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 Portfolio**
+```
+sanketshinde.works
+```
+Personal portfolio — design, work, everything.
+
+[![Visit](https://img.shields.io/badge/→_Visit_Site-00D4FF?style=flat-square&logoColor=black)](https://sanketshinde.works/)
+
+</td>
+<td width="50%" valign="top">
+
+**📅 Year Dot Calendar**
+```
+Chrome Extension
+```
+A minimal new-tab calendar to visualize your year as dots.
+
+[![Chrome Store](https://img.shields.io/badge/→_Chrome_Store-FF6B35?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🚧 Dm2cart**
+```
+[ COMING SOON ]
+```
+In the lab. Stay tuned.
+
+![WIP](https://img.shields.io/badge/Status-Building_👾-555?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**🚧 GitGenie**
+```
+[ COMING SOON ]
+```
+More drops incoming.
+
+![WIP](https://img.shields.io/badge/Status-Cooking_🔥-555?style=flat-square)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
 
+<!-- FOOTER -->
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════╗
+║  Always building. Always learning. Always ships. ║
+╚══════════════════════════════════════════════════╝
+```
 [![An image of @sanketshinde3001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanketshinde3001)](https://holopin.io/@sanketshinde3001)
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer&fontColor=ffffff" width="100%"/>
+
+</div>
