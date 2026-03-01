@@ -93,17 +93,8 @@ More drops incoming.
 </table>
 </div>
 
----
-
-
-<!-- FOOTER -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════╗
-║  Always building. Always learning. Always ships. ║
-╚══════════════════════════════════════════════════╝
-```
 [![An image of @sanketshinde3001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanketshinde3001)](https://holopin.io/@sanketshinde3001)
 
 
