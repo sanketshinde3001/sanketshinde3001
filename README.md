@@ -1,103 +1,105 @@
-<!-- HEADER SECTION -->
-<div align="center">
+<h1 align="center">Hi, I'm Sanket 👋</h1>
 
-░██████╗░█████╗░███╗░░██╗██╗░░██╗███████╗████████╗
-██╔════╝██╔══██╗████╗░██║██║░██╔╝██╔════╝╚══██╔══╝
-╚█████╗░███████║██╔██╗██║█████═╝░█████╗░░░░░██║░░░
-░╚═══██╗██╔══██║██║╚████║██╔═██╗░██╔══╝░░░░░██║░░░
-██████╔╝██║░░██║██║░╚███║██║░╚██╗███████╗░░░██║░░░
-╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚══════╝░░░╚═╝░░░
+<p align="center">
+  <b>AI engineer · indie builder.</b><br>
+  I ship small, polished products - Chrome extensions, web apps, GenAI tools and give most of them away free.
+</p>
 
-<br/>
+<p align="center">
+  Day job: production LLM systems - RAG pipelines, agents, retrieval over millions of documents.<br>
+  Nights: things I wish existed.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐_sanketshinde.works-000000?style=for-the-badge&logoColor=white)](https://sanketshinde.works/)
-[![Profile Views](https://komarev.com/ghpvc/?username=sanketshinde3001&label=Views&color=00d4ff&style=for-the-badge)](https://github.com/sanketshinde3001)
+<p align="center">
+  <a href="https://sanketshinde.vercel.app/"><img src="https://img.shields.io/badge/sanketshinde.vercel.app-000000?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/sanketshinde04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sanketshinde3123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://buymeacoffee.com/sanketshinde"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000" alt="Buy me a coffee"></a>
+  <img src="https://komarev.com/ghpvc/?username=sanketshinde3001&label=Views&color=000000&style=flat-square" alt="Profile views">
+</p>
 
-</div>
-
----
-
-<!-- ABOUT -->
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
-
-### `> whoami`
+<br>
 
 ```yaml
-name: Sanket Rajendra Shinde
-location: India 🇮🇳
-role: Founding Engineer at Neurolaw AI
-currently_building:
-  - "Dm2cart"
-  - "Widgets Extention"
-  - "More coming soon..."
-vibe: "Ship it, then make it better."
+name:      Sanket Rajendra Shinde
+location:  India 🇮🇳
+role:      AI Engineer · indie builder
+building:  [DotTab, Dm2cart]
+vibe:      "Ship it, then make it better."
 ```
 
-<br clear="right"/>
+<br>
 
----
+## 🚀 Things I've shipped
 
-<!-- PROJECTS -->
-### `> ls ./projects`
+<br>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
+### ⬛ DotTab &nbsp;·&nbsp; <sub>Chrome extension</sub>
 
-**🌐 Portfolio**
-```
-sanketshinde.works
-```
-Personal portfolio — design, work, everything.
+Open a tab. Own the day. A minimal dot-matrix new-tab dashboard - 28 widgets on one grid, a pixel pet, no account, no tracking.
 
-[![Visit](https://img.shields.io/badge/→_Visit_Site-00D4FF?style=flat-square&logoColor=black)](https://sanketshinde.works/)
+<a href="https://chromewebstore.google.com/detail/dbknofnbondmmgikjajeggiojigehbmm"><img src="https://img.shields.io/badge/Chrome_Web_Store-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store"></a>
+<a href="https://sanketshinde3001.github.io/dottab/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
+<a href="https://sanketshinde3001.github.io/dottab/guide.html"><img src="https://img.shields.io/badge/Guide-000000?style=flat-square&logo=readthedocs&logoColor=white" alt="Guide"></a>
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-**📅 Year Dot Calendar**
-```
-Chrome Extension
-```
-A minimal new-tab calendar to visualize your year as dots.
+### 📅 Year Dot Calendar &nbsp;·&nbsp; <sub>Chrome extension</sub>
 
-[![Chrome Store](https://img.shields.io/badge/→_Chrome_Store-FF6B35?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml)
+Your year as dots on every new tab. Progress you can feel.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<a href="https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml"><img src="https://img.shields.io/badge/Chrome_Web_Store-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store"></a>
 
-**🚧 Dm2cart**
-```
-[ COMING SOON ]
-```
+<br>
+
+
+### 🚧 Dm2cart &nbsp;·&nbsp; <sub>Coming soon</sub>
+
 In the lab. Stay tuned.
 
-![WIP](https://img.shields.io/badge/Status-Building_👾-555?style=flat-square)
+<img src="https://img.shields.io/badge/Status-Building_👾-555555?style=flat-square" alt="Building">
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-**🚧 GitGenie**
-```
-[ COMING SOON ]
-```
-More drops incoming.
+## 🛠 What I work with
 
-![WIP](https://img.shields.io/badge/Status-Cooking_🔥-555?style=flat-square)
+<br>
 
-</td>
-</tr>
-</table>
-</div>
+| | |
+|:--|:--|
+| **AI / GenAI** | LLM APIs · RAG systems · AI agents · vector databases · embeddings · semantic search · prompt engineering · fine-tuning · model evaluation · LangChain · LangGraph · Streamlit |
+| **Full stack** | TypeScript · React · Next.js · Node · Express · Python · PostgreSQL · MongoDB · Redis · Prisma · Tailwind · Docker · Jest |
+| **Cloud** | Azure (Document Intelligence, Cosmos Vector DB, VMs) · AWS (EC2, S3) · PostHog |
 
-<div align="center">
+<br>
 
-[![An image of @sanketshinde3001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanketshinde3001)](https://holopin.io/@sanketshinde3001)
+## 📈 Some numbers I'm proud of
 
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer&fontColor=ffffff" width="100%"/>
+- Built a retrieval pipeline over **1 lakh+ legal documents** at **95 % accuracy** - OCR and extraction at **99 %**, 500+ docs/hour
+- **20+ court scrapers** and **2M+ public legal documents** collected into an ML-ready dataset
+- Cut API response time by **60 %** with async Node/Python architecture, caching and fallbacks
+- **Global #6** at DevfestAI · **#1** KIMO AI Competition · Base bounty winner, Unfold 2024 · runner-up at i2i 2025 (COEP) and Medecro Medical Hackathon
+- **15+ open-source repos** improved - CopilotKit, Tolgee, MindsDB and more (Hacktoberfest, DevfestAI, GSSOC)
 
-</div>
+<br>
+
+## 🌱 Open source
+
+<br>
+
+Contributor since 2024 - demo apps, bug fixes and features across Next.js, TypeScript and LLM-tooling repos.
+If you maintain something in that space and want a hand, say hi.
+
+<p align="center">
+  <a href="https://holopin.io/@sanketshinde3001"><img src="https://holopin.me/sanketshinde3001" alt="Holopin badges"></a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>BE Computer Engineering · Government College of Engineering &amp; Research, Avasari Khurd · India 🇮🇳</sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="100%" alt="">
