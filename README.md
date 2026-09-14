@@ -38,7 +38,7 @@ vibe:      "Ship it, then make it better."
 
 Open a tab. Own the day. A minimal dot-matrix new-tab dashboard - 28 widgets on one grid, a pixel pet, no account, no tracking.
 
-<a href="https://chromewebstore.google.com/detail/dbknofnbondmmgikjajeggiojigehbmm"><img src="https://img.shields.io/badge/Chrome_Web_Store-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store"></a>
+<a href="https://chromewebstore.google.com/detail/dottab-minimal-new-tab-da/dbknofnbondmmgikjajeggiojigehbmm"><img src="https://img.shields.io/badge/Chrome_Web_Store-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store"></a>
 <a href="https://sanketshinde3001.github.io/dottab/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
 <a href="https://sanketshinde3001.github.io/dottab/guide.html"><img src="https://img.shields.io/badge/Guide-000000?style=flat-square&logo=readthedocs&logoColor=white" alt="Guide"></a>
 
