@@ -4,7 +4,7 @@
 I build production-ready systems and small, polished products.
 
 [Portfolio](https://sanketshinde.vercel.app/) · [LinkedIn](https://linkedin.com/in/sanketshinde04) · [Email](mailto:sanketshinde3123@gmail.com) · [Buy me a coffee](https://buymeacoffee.com/sanketshinde)  
-<img src="https://komarev.com/ghpvc/?username=sanketshinde3001&amp;label=Profile%20views&amp;color=6b7280&amp;style=flat-square" alt="Profile views">
+<img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dsanketshinde3001&amp;query=(%2F%2F*%5Blocal-name()%3D%27text%27%5D)%5Blast()%5D&amp;label=Profile%20views&amp;style=flat-square&amp;labelColor=30363d&amp;color=64748b" alt="Profile views">
 
 ### Extensions
 
