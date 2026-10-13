@@ -43,6 +43,10 @@ Your year's progress in dots, with daily notes and custom colors.
 **[Qwen-Image Studio](https://github.com/sanketshinde3001/qwen-image-studio)**  
 Local image generation and editing with Qwen-Image 2.1 on a 16 GB Apple Silicon Mac.
 
+<p>
+  <img src="https://hits.sh/github.com/sanketshinde3001/qwen-image-studio.svg?style=flat-square&amp;label=Views&amp;labelColor=30363d&amp;color=2563eb" alt="Qwen-Image Studio: views">
+</p>
+
 <!-- Add future Local LLM projects here. -->
 
 ### Products under development
