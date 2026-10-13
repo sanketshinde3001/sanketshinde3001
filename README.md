@@ -38,6 +38,12 @@ vibe:      "Ship it, then make it better."
 
 Open a tab. Own the day. A minimal dot-matrix new-tab dashboard - 28 widgets on one grid, a pixel pet, no account, no tracking.
 
+<p>
+  <a href="https://chromewebstore.google.com/detail/dottab-minimal-new-tab-da/dbknofnbondmmgikjajeggiojigehbmm"><img src="https://img.shields.io/chrome-web-store/users/dbknofnbondmmgikjajeggiojigehbmm?style=flat-square&amp;label=Users&amp;labelColor=18181b&amp;color=2ea043" alt="DotTab Chrome Web Store user count"></a>
+  <a href="https://chromewebstore.google.com/detail/dottab-minimal-new-tab-da/dbknofnbondmmgikjajeggiojigehbmm"><img src="https://img.shields.io/chrome-web-store/rating/dbknofnbondmmgikjajeggiojigehbmm?style=flat-square&amp;label=Rating&amp;labelColor=18181b&amp;color=e3b341" alt="DotTab Chrome Web Store rating out of five"></a>
+  <a href="https://chromewebstore.google.com/detail/dottab-minimal-new-tab-da/dbknofnbondmmgikjajeggiojigehbmm"><img src="https://img.shields.io/chrome-web-store/rating-count/dbknofnbondmmgikjajeggiojigehbmm?style=flat-square&amp;label=Ratings&amp;labelColor=18181b&amp;color=8b5cf6" alt="DotTab Chrome Web Store rating count"></a>
+</p>
+
 <a href="https://chromewebstore.google.com/detail/dottab-minimal-new-tab-da/dbknofnbondmmgikjajeggiojigehbmm"><img src="https://img.shields.io/badge/Chrome_Web_Store-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store"></a>
 <a href="https://sanketshinde3001.github.io/dottab/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
 <a href="https://sanketshinde3001.github.io/dottab/guide.html"><img src="https://img.shields.io/badge/Guide-000000?style=flat-square&logo=readthedocs&logoColor=white" alt="Guide"></a>
@@ -48,10 +54,17 @@ Open a tab. Own the day. A minimal dot-matrix new-tab dashboard - 28 widgets on 
 
 Your year as dots on every new tab. Progress you can feel.
 
+<p>
+  <a href="https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml"><img src="https://img.shields.io/chrome-web-store/users/ibknnanolfdamgbajknoodddngaflbml?style=flat-square&amp;label=Users&amp;labelColor=18181b&amp;color=2ea043" alt="Year Dot Calendar Chrome Web Store user count"></a>
+  <a href="https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml"><img src="https://img.shields.io/chrome-web-store/rating/ibknnanolfdamgbajknoodddngaflbml?style=flat-square&amp;label=Rating&amp;labelColor=18181b&amp;color=e3b341" alt="Year Dot Calendar Chrome Web Store rating out of five"></a>
+  <a href="https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml"><img src="https://img.shields.io/chrome-web-store/rating-count/ibknnanolfdamgbajknoodddngaflbml?style=flat-square&amp;label=Ratings&amp;labelColor=18181b&amp;color=8b5cf6" alt="Year Dot Calendar Chrome Web Store rating count"></a>
+</p>
+
 <a href="https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml"><img src="https://img.shields.io/badge/Chrome_Web_Store-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Web Store"></a>
 
-<br>
+<sub>Users and ratings refresh automatically from the Chrome Web Store.</sub>
 
+<br>
 
 ### 🚧 Dm2cart &nbsp;·&nbsp; <sub>Coming soon</sub>
 
