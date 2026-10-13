@@ -26,25 +26,31 @@ Small tools for a more intentional new tab.
   <td width="50%" valign="top">
     <h3>DotTab</h3>
     <p><sub>New tab dashboard</sub></p>
-    <p>A calm, dot-matrix dashboard with 28 widgets for planning, focus and a little fun.</p>
+    <p>28 widgets for tasks, focus and fun on a dot-matrix new tab.</p>
+  </td>
+  <td width="50%" valign="top">
+    <h3>Year Dot Calendar</h3>
+    <p><sub>Year progress tracker</sub></p>
+    <p>Your year in dots, with progress tracking, custom colors and daily notes.</p>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
     <p>
       <a href="https://chromewebstore.google.com/detail/dottab-minimal-new-tab-da/dbknofnbondmmgikjajeggiojigehbmm"><img src="https://img.shields.io/chrome-web-store/users/dbknofnbondmmgikjajeggiojigehbmm?style=flat-square&amp;label=Users&amp;labelColor=30363d&amp;color=3b82f6" alt="DotTab: users"></a><br>
       <a href="https://chromewebstore.google.com/detail/dottab-minimal-new-tab-da/dbknofnbondmmgikjajeggiojigehbmm"><img src="https://img.shields.io/chrome-web-store/rating/dbknofnbondmmgikjajeggiojigehbmm?style=flat-square&amp;label=Score&amp;labelColor=30363d&amp;color=d4a72c" alt="DotTab: score out of five"></a><br>
       <a href="https://chromewebstore.google.com/detail/dottab-minimal-new-tab-da/dbknofnbondmmgikjajeggiojigehbmm"><img src="https://img.shields.io/chrome-web-store/rating-count/dbknofnbondmmgikjajeggiojigehbmm?style=flat-square&amp;label=Ratings&amp;labelColor=30363d&amp;color=64748b" alt="DotTab: rating count"></a>
     </p>
-    <p><a href="https://chromewebstore.google.com/detail/dottab-minimal-new-tab-da/dbknofnbondmmgikjajeggiojigehbmm"><strong>Install extension ↗</strong></a><br>
+    <p><a href="https://chromewebstore.google.com/detail/dottab-minimal-new-tab-da/dbknofnbondmmgikjajeggiojigehbmm"><strong>Install ↗</strong></a><br>
     <sub><a href="https://sanketshinde3001.github.io/dottab/">Website</a> · <a href="https://sanketshinde3001.github.io/dottab/guide.html">Guide</a></sub></p>
   </td>
   <td width="50%" valign="top">
-    <h3>Year Dot Calendar</h3>
-    <p><sub>Year progress tracker</sub></p>
-    <p>Your year as a grid of dots. Track progress and mark meaningful days with notes.</p>
     <p>
       <a href="https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml"><img src="https://img.shields.io/chrome-web-store/users/ibknnanolfdamgbajknoodddngaflbml?style=flat-square&amp;label=Users&amp;labelColor=30363d&amp;color=3b82f6" alt="Year Dot Calendar: users"></a><br>
       <a href="https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml"><img src="https://img.shields.io/chrome-web-store/rating/ibknnanolfdamgbajknoodddngaflbml?style=flat-square&amp;label=Score&amp;labelColor=30363d&amp;color=d4a72c" alt="Year Dot Calendar: score out of five"></a><br>
       <a href="https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml"><img src="https://img.shields.io/chrome-web-store/rating-count/ibknnanolfdamgbajknoodddngaflbml?style=flat-square&amp;label=Ratings&amp;labelColor=30363d&amp;color=64748b" alt="Year Dot Calendar: rating count"></a>
     </p>
-    <p><a href="https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml"><strong>Install extension ↗</strong></a><br>
+    <p><a href="https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml"><strong>Install ↗</strong></a><br>
     <sub>Custom colors · Daily notes</sub></p>
   </td>
 </tr>
