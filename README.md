@@ -44,7 +44,7 @@ Your year's progress in dots, with daily notes and custom colors.
 Record desktop workflows and turn them into editable guides. Offline, open source, and built for Windows.
 
 <p>
-  <img src="https://hits.sh/github.com/sanketshinde3001/stepvela.svg?style=flat-square&amp;label=Views&amp;labelColor=30363d&amp;color=2563eb" alt="StepVela: views">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhits.sh%2Fapi%2Furns%2Fgithub.com%2Fsanketshinde3001%2Fstepvela&amp;query=%24.total&amp;label=Views&amp;style=flat-square&amp;labelColor=30363d&amp;color=2563eb" alt="StepVela: views">
 </p>
 
 ### Local LLM
