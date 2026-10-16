@@ -47,6 +47,15 @@ Record desktop workflows and turn them into editable guides. Offline, open sourc
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhits.sh%2Fapi%2Furns%2Fgithub.com%2Fsanketshinde3001%2Fstepvela&amp;query=%24.total&amp;label=Views&amp;style=flat-square&amp;labelColor=30363d&amp;color=2563eb" alt="StepVela: views">
 </p>
 
+### Browser Games
+
+**[Blacktop Brawl](https://github.com/sanketshinde3001/blacktop-brawl)** · [Play](https://blacktop-brawl.vercel.app/) · [Website](https://sanketshinde3001.github.io/blacktop-brawl/)  
+Free motorcycle combat racing in your browser, with a five-level career, bike upgrades, and local two-player split screen.
+
+<p>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhits.sh%2Fapi%2Furns%2Fgithub.com%2Fsanketshinde3001%2Fblacktop-brawl&amp;query=%24.total&amp;label=README%20views&amp;style=flat-square&amp;labelColor=30363d&amp;color=2563eb" alt="Blacktop Brawl: README views">
+</p>
+
 ### Local LLM
 
 **[Qwen-Image Studio](https://github.com/sanketshinde3001/qwen-image-studio)**  
