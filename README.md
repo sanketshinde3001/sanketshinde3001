@@ -32,6 +32,8 @@ A 28-widget new-tab dashboard for tasks, notes and focus.
 **[Year Dot Calendar](https://chromewebstore.google.com/detail/year-dot-calendar-%E2%80%93-new-t/ibknnanolfdamgbajknoodddngaflbml)**  
 Your year's progress in dots, with daily notes and custom colors.
 
+[Website](https://sanketshinde3001.github.io/Dot-Calendar/) · [Source](https://github.com/sanketshinde3001/Dot-Calendar)
+
 <p>
   <img src="https://img.shields.io/chrome-web-store/users/ibknnanolfdamgbajknoodddngaflbml?style=flat-square&amp;label=Users&amp;labelColor=30363d&amp;color=2563eb" alt="Year Dot Calendar: user count">
   <img src="https://img.shields.io/chrome-web-store/rating/ibknnanolfdamgbajknoodddngaflbml?style=flat-square&amp;label=Score&amp;labelColor=30363d&amp;color=a16207" alt="Year Dot Calendar: rating out of five">
